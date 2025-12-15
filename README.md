@@ -1,13 +1,13 @@
 # FIFA 21 Player Rating Predictor ⚽
 
 ## Project Overview
-This project uses Machine Learning (Random Forest Regressor) to predict a football player's "Overall Rating" based on their in-game stats. It analyzes data from the FIFA 21 video game to determine which technical skills—like Reactions and Ball Control—matter most.
+This project uses Machine Learning (Random Forest Regressor) to predict a football player's "Overall Rating" based on their in-game stats. It analyzes data from the FIFA 21 video game to determine which technical skills, like Reactions and Ball Control, matter most.
 
 ## 🚀 New Feature: Interactive Web App
 I have transformed the static analysis into a **real-time dashboard** using Streamlit.
 
-![Dashboard Preview](dashboard_preview.png)
-![Dashboard Preview](dashboard_preview2.png)
+![Dashboard Preview](dashboard_preview.png.png)
+![Dashboard Preview](dashboard_preview2.png.png)
 
 * **Interactive Sliders:** Users can adjust specific player stats (Speed, Shooting, Defending, etc.) to see how they impact the overall score.
 * **Instant Prediction:** The ML model runs in real-time to generate a rating (0-100).
